@@ -19,5 +19,5 @@ Excel
 • Marketing Campaign Prediction – Machine Learning  
 • Credit Risk Analysis – SQL  
 • Bike Sales Dashboard – Excel
-• Austin-Animal-Center
-• HealthPlus
+• Austin-Animal-Center - Power BI
+• HealthPlus - Knime / Power BI
